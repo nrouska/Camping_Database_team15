@@ -13,6 +13,8 @@ Application for Organized Camping
   
   Δημιουργήστε νέο φάκελο που να περιέχει τα αρχεία που θα κατεβάσετε και τρέξτε το camping.py. Για είσοδο ως receptionist ο κωδικός που χρειάζεται είναι 01234.
   
+Τρέξαμε το αρχείο generate_KRAT_PERILAMB_KATAL.py,για να δημιουργηθεί ο αρχικός πίνακας  Kρατ_Περιλαμβ_Καταλ και ο χρήστης δεν χρειάζεται να το τρέξει.
+  
 ![image](https://github.com/user-attachments/assets/69a264c8-8635-4eb0-8511-a1e1e2cf2c8e)
 
 
